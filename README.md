@@ -1,2 +1,2 @@
 # EasyCommands
-This just for my friends, if intesesting, you can view this
+This just minecraft plugin for my friends, if intesesting, you can view this
