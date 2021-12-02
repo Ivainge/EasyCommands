@@ -1,0 +1,10 @@
+name: EasyCommands
+version: '${project.version}'
+main: org.ivainge.mc.easycommands.EasyCommands
+api-version: 1.17
+authors: [ Ivainge ]
+description: Easy aliases
+website: https://ivainge.ru
+commands:
+  easycommands:
+    aliases: [ec, ecom, commands]
